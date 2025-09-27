@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Psych grad with a data focused mind<br>📋 Currently Learning: Excel, Power BI, and SQL with a lil Python on the side <br>📊 Big fan of data visualization <br>✨ Making the world more data driven, one pastel dashboard at a time!<br>💼 Seeking opportunities in any entry level Data position
+🧠 Psych grad with a data focused mind<br>📋 Currently Learning: Excel, Power BI, and SQL with a lil Python on the side <br>📊 Big fan of data visualization <br>✨ Making the world more data driven, one pastel dashboard at a time!<br>💼 Currently employed as an Inventory Analyst!
 
 
 ## 🌐 Socials:
