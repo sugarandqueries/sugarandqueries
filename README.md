@@ -12,8 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sugarandqueries&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sugarandqueries&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  ## 💰 Donate to support my Data Journey!
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Schretter) 
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
